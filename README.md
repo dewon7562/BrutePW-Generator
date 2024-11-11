@@ -10,6 +10,12 @@ Requirements:
 
 Python 3.xLicense
 
+git clone https://github.com/dewon7562/BrutePW-Generator.git
+cd BrutePW-Generator 
+python3 BrutePW-Generator.py
+
+
+
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
 Author
