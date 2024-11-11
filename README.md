@@ -15,6 +15,8 @@ cd BrutePW-Generator
 python3 BrutePW-Generator.py
 
 
+use nano BrutePW-Generator.py to make your own idea for Generate 
+
 
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
 
