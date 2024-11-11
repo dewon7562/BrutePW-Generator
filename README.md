@@ -10,9 +10,9 @@ Requirements:
 
 Python 3.xLicense
 
-git clone https://github.com/dewon7562/BrutePW-Generator.git
-cd BrutePW-Generator 
-python3 BrutePW-Generator.py
+$git clone https://github.com/dewon7562/BrutePW-Generator.git
+$cd BrutePW-Generator 
+$python3 BrutePW-Generator.py
 
 
 
